@@ -11,7 +11,7 @@
 - [SUMMARY OF ANALYSIS](#summary-of-anaylsis)
 - [CONCLUSION](#conclusion)
 ## INTRODUCTION
-The Mini Store Sales Analysis project focuses on examining the sales performance of a small retail store.The dataset contains information about products,sales transactions,customer purchases,and revenue generated over a specifif period. The purpose of this project is to analyze sales trends,identify best-selling products,evaluate revenue performance,and uncover insights that can help improve business decision-making.Through this project i applied data analysis techniques to clean,organize and interprete the dataset.the findingd from this analysis can help the store make better business decisons and improve profitability.
+The Mini Store Sales Analysis project focuses on examining the sales performance of a small retail store.The dataset contains information about products,sales transactions,customer purchases,and revenue generated over a specifif period. The purpose of this project is to analyze sales trends,identify best-selling products,evaluate revenue performance,and uncover insights that can help improve business decision-making.Through this project i applied data analysis techniques to clean,organize and interprete the dataset.The findings from this analysis can help the store make better business decisons and improve profitability.
 ## DATA DESCRIPTION
 The dataset contains information about different products and their sales performances across various outlets.The columns in the dataset are described below:
 - Item Identifier: A code assigned to each product
@@ -31,4 +31,5 @@ The dataset contains information about different products and their sales perfor
 ### Data sources
 The dataset used for this analysis is the sample superstore dataset.It contains transactional sales records including order details,customer information,product categories,sales,profit,quantity and shipping details.This dataset is commonly used for data analysis and business intelligence practice.The dataset contains 8,524 rows and 13 columns.Each row represents a sales transaction,while the columns represent different variables describing the transaction.
 #### RAW DATA
+
 
