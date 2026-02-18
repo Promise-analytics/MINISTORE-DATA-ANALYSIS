@@ -3,7 +3,8 @@
 ![SUPER STORE IMAGE](MINISUPERSTORE.jpeg)
 ## TABLE OF CONTENT
 - [INTRODUCTION](#introduction)
-- [DATA DESCRIPTION](#Data-collection-and-preparation)
+- [DATA DESCRIPTION](#Data-description)
+- [DATA COLLECTION AND PREPARATION](#data-collection-and-preparation)
 - [DATA ANALYSIS](#Data-analysis)
 - [SKILLS DEMONSTRATED](#skills-demonstrated)
 - [VISUALIZATIONS](#visualisations)
@@ -31,9 +32,9 @@ The dataset contains information about different products and their sales perfor
 ### Data sources
 The dataset used for this analysis is the sample superstore dataset.It contains transactional sales records including order details,customer information,product categories,sales,profit,quantity and shipping details.This dataset is commonly used for data analysis and business intelligence practice.The dataset contains 8,524 rows and 13 columns.Each row represents a sales transaction,while the columns represent different variables describing the transaction.
 #### RAW DATA
-![Raw Dataset](10. Mini Super Store Data Analysis (1).xlsx)
+[Download Ministore DATASET](
 #### CORRECTED DATA
-![Download corrected Ministore Dataset](10. Mini Super Store Data Analysis.xlsx)
+[Download corrected Ministore DATASET](
 
 ### Tools used: Excel
 - Currency conversion(GBP to USD)
