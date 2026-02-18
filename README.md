@@ -32,7 +32,7 @@ The dataset contains information about different products and their sales perfor
 ### Data sources
 The dataset used for this analysis is the sample superstore dataset.It contains transactional sales records including order details,customer information,product categories,sales,profit,quantity and shipping details.This dataset is commonly used for data analysis and business intelligence practice.The dataset contains 8,524 rows and 13 columns.Each row represents a sales transaction,while the columns represent different variables describing the transaction.
 #### RAW DATA
-[Download Ministore DATASET](
+[Download Ministore DATASET](MINI_SUPERSTORE_DATASET.csv.xlsx)
 #### CORRECTED DATA
 [Download corrected Ministore DATASET](
 
