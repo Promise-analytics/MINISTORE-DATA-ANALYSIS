@@ -35,6 +35,9 @@ The dataset used for this analysis is the sample superstore dataset.It contains 
 [Download Ministore DATASET](MINI_SUPERSTORE_DATASET.csv.xlsx)
 #### CORRECTED DATA
 [Download corrected Ministore DATASET](MINI_SUPERSTORE_CORRECTED.csv.xlsx)
+   **Sheet 1:** Pivot tables summarizing key metrics(sales,stock,outlet performance)
+   **Sheet 2:** Dashboard with pivot charts and slicers(Item Type,Outlet Size,Outlet Type)arranged interractively.
+   **Sheet 3:** Cleaned and corrected main dataset
 
 ### Tools used: Excel
 - Currency conversion(GBP to USD)
@@ -60,9 +63,29 @@ The dataset used for this analysis is the sample superstore dataset.It contains 
 - The IF function was used to classify sales greater than 5,000 as "High" sales less than 5,000 as "Low".
    =IF(L2>5000,"High","Low")
 - A new column Sales Category was created to classify sales values above and below 5,000
-- Pivot tables were used to summarize and analyse key metrics
-  1.Highlight the whole data-Ctrl+A
-  2.
-- Pivot charts were created to visually represent trends and comparisons.
-- 
+- Pivot tables were used to summarize and analyse key metrics,the the dataset was first converted to table.
+  1.Convert to table by
+  2.Clicking anywhere inside the dataset
+  3.Press Ctrl+T, a dailog box will open
+  4.Check my table has headers
+  5.Click OK,and the data is now a structured table.
+  6.Click anywhere inside the table
+  7.Go to the ribbon at the top,Click INSERT
+  8.Choose pivotTable,a dialog box appears
+  9.Choose whether you want the PivotTable in a new worksheet or existing worksheet
+  10.Check the NEW WORKSHEET
+  11.Click OK
+  ## DATA ANALYSIS
+  .         The following pivot tables and and chart were created:
+  - Top 5 ITEM TYPE by total sales
+  - BOTTOM 5 ITEM IDENTIFIERS by total sales
+  - YEARLY SALES TREND
+  - AVERAGE SALES by each outlet type
+  - TOTAL SALES COUNT
+  - The year with the HIGHEST and LOWEST TOTAL SALES.
+  ## VISUALIZATIONS
+  The visualization shows the total sales generated each year in the dataset. The purpose of this chart is to identify trends in sales performance over time and to determine the year with the highest and lowest sales.
+
+
+![VISUALIZATIONS](
 
