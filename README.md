@@ -33,5 +33,17 @@ The dataset used for this analysis is the sample superstore dataset.It contains 
 #### RAW DATA
 ![Raw Dataset](10. Mini Super Store Data Analysis (1).xlsx)
 #### CORRECTED DATA
-![Download corrected Ministore Dataset](
+![Download corrected Ministore Dataset](10. Mini Super Store Data Analysis.xlsx)
+
+### Tools used: Excel
+- Currency conversion(GBP to USD)
+- Data Cleaning(Replace blanks with Null)
+- If function
+- Feature Engineering(creation of new columns)
+- Pivot tables
+- Pivot charts
+- Dashboard Development
+
+## SKILLS DEMONSTRATED
+- All currency values were originally recorded in british pounds
 
