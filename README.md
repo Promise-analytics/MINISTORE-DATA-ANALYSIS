@@ -50,7 +50,6 @@ The dataset used for this analysis is the sample superstore dataset.It contains 
 
 ## SKILLS DEMONSTRATED
 - All currency values were originally recorded in "british pounds".These values were converted to U.S Dollars($)to standardize financial analysis.
-  1.
 - Blanks cells in the dataset were identified and replaced with "NULL" using  find and replace tool.
   1.Click Ctrl+A to highlight all data
   2.Click Ctrl+G
@@ -87,5 +86,23 @@ The dataset used for this analysis is the sample superstore dataset.It contains 
   The visualization shows the total sales generated each year in the dataset. The purpose of this chart is to identify trends in sales performance over time and to determine the year with the highest and lowest sales.
 
 
-![VISUALIZATIONS](
+![VISUALIZATIONS](MINI_SUPERSTORE_DASHBOARD.png)
+
+
+
+## INSIGHT FROM ANALYSIS
+- From the analysis conducted using pivot tables and interactive dashboards.The following insights were observed.
+  - Highest and Lowest sales year
+    * The year with the highest sales was year 1985
+    * the year with the lowest sales was year 1998
+- Top 5 Item Type
+    * Fruits and vegetables generated the highest sales among all item categories
+  This indicates strong customer demand for fresh produce.
+- The analysis of average sales by oulet type shows that
+    * Supermarket Type 3 has the highest average sales at $3,694.04,while
+    * Grocery store record the lowest average sales at $339.83
+  This suggests that larger supermarket formats generate higher customer spending compared to smaller grocery stores.
+
+  ## CONCLUSION
+  This analysis of the SUPERSTORE DATASET provides a comprehensive view of sales patterns a comprehensive view of sales patterns across different years,product categories and outlet types.The visualizations and insights demonstrate clear trends in customer demand and sales performance,highlighting opportunities for businesses to optimize sales strategies,focus on high-performing outlets and meet customer preferences effectively.Businesses should consider investing in marketing and promotional strategies tailoredto high performing outlets,such as Supermarket Type 3,while ecploring ways to increase sales in lower-performing outlets like Grocery Stores.Enhancing product variety,improving in-store experience, or offering bundledeals could help smaller outlets attract more customers and increase average sales.          
 
