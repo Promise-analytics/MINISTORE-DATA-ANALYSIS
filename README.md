@@ -34,7 +34,7 @@ The dataset used for this analysis is the sample superstore dataset.It contains 
 #### RAW DATA
 [Download Ministore DATASET](MINI_SUPERSTORE_DATASET.csv.xlsx)
 #### CORRECTED DATA
-[Download corrected Ministore DATASET](
+[Download corrected Ministore DATASET](MINI_SUPERSTORE_CORRECTED.csv.xlsx)
 
 ### Tools used: Excel
 - Currency conversion(GBP to USD)
@@ -46,5 +46,23 @@ The dataset used for this analysis is the sample superstore dataset.It contains 
 - Dashboard Development
 
 ## SKILLS DEMONSTRATED
-- All currency values were originally recorded in british pounds
+- All currency values were originally recorded in "british pounds".These values were converted to U.S Dollars($)to standardize financial analysis.
+  1.
+- Blanks cells in the dataset were identified and replaced with "NULL" using  find and replace tool.
+  1.Click Ctrl+A to highlight all data
+  2.Click Ctrl+G
+  3.Click on special in the drop down
+  4.Check/Tick BLANKS
+  5.Click OK and allow to read
+  6.Once the spaces are all highlighted
+  7.Type NULL
+  8.Click on Ctrl+Enter
+- The IF function was used to classify sales greater than 5,000 as "High" sales less than 5,000 as "Low".
+   =IF(L2>5000,"High","Low")
+- A new column Sales Category was created to classify sales values above and below 5,000
+- Pivot tables were used to summarize and analyse key metrics
+  1.Highlight the whole data-Ctrl+A
+  2.
+- Pivot charts were created to visually represent trends and comparisons.
+- 
 
